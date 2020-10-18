@@ -18,12 +18,11 @@
 <a href="https://leetcode.com/chandrakant_shinde/">
   <img align="left" alt="chandrakant's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-<br />
-Hi,I'm <h3>Chandrakant Shinde</h3> a Android Developer 🚀 from India.
+<br >
+Hi,I'm<h3>Chandrakant Shinde</h3> a Android Developer 🚀 from India.
 Beside's programming, I Love Eating and spending time alone.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
@@ -33,6 +32,7 @@ Beside's programming, I Love Eating and spending time alone.
 - 📫 How to reach me: [@iamchandu_07](https://twitter.com/@iamchandu_07);
 
 **Languages and Tools:**  
+<br >
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -49,8 +49,6 @@ Beside's programming, I Love Eating and spending time alone.
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-
-
 
 <details>
 <summary>📈 My GitHub Stats</summary>
