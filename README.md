@@ -6,10 +6,10 @@
 <a href="https://www.linkedin.com/in/chandrakant-shinde-007cs/">
   <img align="left" alt="Chandrakant's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/Chandrakant_shinde">
+<a href="https://t.me/Chandrakant_shinde" target="_blank">
   <img align="left" alt="chandrakant's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/chandrakant_shinde7/">
+<a href="https://www.instagram.com/chandrakant_shinde7/" target="_blank">
   <img align="left" alt="chandrakant's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.hackerrank.com/chandrakant2672">
@@ -20,15 +20,18 @@
 </a>
 <br >
 <br >
+<p>
+Hi,I'm **Chandrakant Shinde** , Tech geek,an Android Developer & programmer 🚀 from India.currently studing IT Engineering at <a href="https://kkwagh.edu.in/" target="_blank" >K.K.wagh college of Engineering</a> Nashik in TE class .Other than programming, I Love Reading and spending time alone.</p>
 
 <img align="right" alt="GIF" src="https://github.com/shindechandrakant/shindechandrakant/blob/main/code.gif?raw=true" width="500" height="320" />
 
 **Talking about Personal Stuffs:**
-
+- :man_in_tuxedo: Looking for opportunity;
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning node js and react js; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@iamchandu_07](https://twitter.com/@iamchandu_07);
+- 💬 Contact me: <a href="mailto:chandrakantshinde195@gmail.com">Write mail for me</a>;
 
 **Languages and Tools:**  
 <br >
