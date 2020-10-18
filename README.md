@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="center">
+<a href="mailto:chandrakantsinde195@gmail.com"><img height="30" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg"></a>
+ </p>
+<!--Github Profile status-->
+<p><img src="https://github-readme-stats.vercel.app/api?username=shindechandrakant&amp;show_icons=true" alt="GitHub Stats"></p>
