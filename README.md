@@ -51,9 +51,9 @@ Hi, I'm **Chandrakant Shinde** , Tech geek, an Android Developer & competitive p
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-
+<!--
 <details>
-<summary>📈 My GitHub Stats</summary>
+<summary>📈 My GitHub Stats</summary> -->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shindechandrakant&show_icons=true&theme=gotham" alt="Chandrakant Shinde" />
 
