@@ -19,9 +19,7 @@
   <img align="left" alt="chandrakant's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 <br >
-Hi,I'm<h3>Chandrakant Shinde</h3> a Android Developer 🚀 from India.
-Beside's programming, I Love Reading and spending time alone.
-
+Hi,I'm  **Chandrakant Shinde** a Android Developer 🚀 from India. Beside's programming, I Love Reading and spending time alone.
 <img align="right" alt="GIF" src="https://github.com/shindechandrakant/shindechandrakant/blob/main/code.gif?raw=true" width="500" height="320" />
 
 **Talking about Personal Stuffs:**
