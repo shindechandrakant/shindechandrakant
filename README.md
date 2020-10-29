@@ -21,15 +21,12 @@
 <br >
 <br >
 
-Hi, I'm **Chandrakant Shinde** , Tech geek, an Android Developer & competitive programmer 🚀 from India. currently studing IT Engineering at <a href="https://kkwagh.edu.in/" target="_blank" >K.K.wagh college of Engineering</a> Nashik in TE class .Other than programming, I Love Reading and spending time alone.
+Hi, I'm **Chandrakant Shinde** , an Android Developer & competitive programmer🚀 from India. currently studing IT Engineering at <a href="https://kkwagh.edu.in/" target="_blank" >K.K.wagh college of Engineering</a> Nashik in TE class
 
 <img align="right" alt="GIF" src="https://github.com/shindechandrakant/shindechandrakant/blob/main/code.gif?raw=true" width="500" height="320" />
 
-**Talking about Personal Stuffs:**
+### contact
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning node js and react js; 
-- 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@iamchandu_07](https://twitter.com/@iamchandu_07);
 - 💬 Contact me: <a href="mailto:chandrakantshinde195@gmail.com">Write mail for me</a>;
 
