@@ -3,7 +3,7 @@
 <a href="https://twitter.com/iamchandu_07">
   <img align="left" alt="Chandrakant Shinde | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/chandrakant-shinde-007cs/">
+<a href="https://www.linkedin.com/in/shindechandrakant/">
   <img align="left" alt="Chandrakant's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/Chandrakant_shinde" target="_blank">
