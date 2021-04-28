@@ -21,7 +21,7 @@
 <br >
 <br >
 
-Hi, I'm **Chandrakant Shinde** , an Android Developer & competitive programmer🚀 from India. currently studing IT Engineering at <a href="https://kkwagh.edu.in/" target="_blank" >K.K.wagh college of Engineering</a> Nashik in TE class
+Hi, I'm **Chandrakant Shinde** , A programmer who write code daily 🚀 from India. currently studing IT Engineering at <a href="https://kkwagh.edu.in/" target="_blank" >K.K.wagh college of Engineering</a> Nashik in TE class.
 
 <img align="right" alt="GIF" src="https://github.com/shindechandrakant/shindechandrakant/blob/main/code.gif?raw=true" width="500" height="320" />
 
