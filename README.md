@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/shindechandrakant/">
   <img align="left" alt="Chandrakant's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/Chandrakant_shinde" target="_blank">
+<a href="https://t.me/chandrakant_shinde" target="_blank">
   <img align="left" alt="chandrakant's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/chandrakant_shinde7/" target="_blank">
@@ -21,7 +21,7 @@
 <br >
 <br >
 
-Hi, I'm **Chandrakant Shinde** , A programmer who write code daily 🚀 from India. currently studing IT Engineering at <a href="https://kkwagh.edu.in/" target="_blank" >K.K.wagh college of Engineering</a> Nashik in TE class.
+Hi, I'm **Chandrakant Shinde** , A programmer who write code daily 🚀 from India. currently studing IT Engineering.
 
 <img align="right" alt="GIF" src="https://github.com/shindechandrakant/shindechandrakant/blob/main/code.gif?raw=true" width="500" height="320" />
 
